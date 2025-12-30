@@ -1,3 +1,9 @@
+/**
+ * Subject class represents an academic subject with name, credits, and hours.
+ * 
+ * @author Rith Chankolboth
+ * @version 1.0
+ */
 class SubjectData {
     private String name;
     private int totalCredits;
